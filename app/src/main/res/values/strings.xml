@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">JetReward</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Keranjang</string>
+    <string name="menu_profile">Profile</string>
+    <string name="required_point">Rp </string>
+    <string name="search_raket">Cari Raket</string>
+    <string name="minus_symbol">—</string>
+    <string name="plus_symbol">＋</string>
+    <string name="add_to_cart">Tambah ke Keranjang : Rp  </string>
+    <string name="total_order">Total pesanan : Rp </string>
+    <string name="back">Back</string>
+    <string name="dicoding_reward">Dicoding Reward</string>
+    <string name="share_message">Hey, Saya Membeli %1$d raket dengan harga %2$d . Apakah Sedia Stok?</string>
+    <string name="no_data_available">Data Kosong</string>
+    <string name="nama_sahril">Nama : Sahril</string>
+    <string name="email_sahrilr165_gmail_com">Email : sahrilr165@gmail.com</string>
+</resources>
